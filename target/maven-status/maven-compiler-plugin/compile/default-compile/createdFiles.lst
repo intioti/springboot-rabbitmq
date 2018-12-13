@@ -1,0 +1,5 @@
+com\microservice\control\CustomerController.class
+com\microservice\SpringBootApp.class
+com\microservice\service\CustomerSender.class
+com\microservice\config\RabbitConfig.class
+com\microservice\model\Customer.class
